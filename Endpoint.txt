@@ -1,0 +1,21 @@
+// 3. Product Catalog
+// GET /products - Get list of all products.
+// GET /products/{id} - Get details of a specific product.
+// POST /products - create a new product (Admin).
+// PUT /products/{id} - Update a specific product (Admin).
+// DELETE /products/{id} - Delete a specific product (Admin).
+// GET /products/categories - Get a list of product categories.
+// GET /products/category/{category_name} - Get products by category.
+// GET /products/search - Search for products.
+
+
+
+// 4. User Catalog
+// GET /users - Get list of all users.
+// GET /users/{id} - Get details of a specific User.
+// POST /users - create a new User (Admin).
+// PUT /users/{id} - Update a specific User (Admin).
+// DELETE /users/{id} - Delete a specific User (Admin).
+// GET /users/categories - Get a list of User categories.
+// GET /users/category/{category_name} - Get users by category.
+// GET /users/search - Search for users.
